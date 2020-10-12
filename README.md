@@ -21,23 +21,23 @@ You can run it by cloning the repository. Running `cd hAppy/web`,`yarn install` 
 React-router-dom, leaflet, jest, node and typescript.
 
 ## Pages
-## *Visit*
+### *Visit*
 
 #### A Map Pinned with The Orphanages in London
 View all of the created orphanages.
 ##### /app
 
-## *VisitAPI*
+### *VisitAPI*
 
 #### Endpoints
 
-## *Create Orphanage*
+### *Create Orphanage*
 
 #### Orphanage Creation Form
 Search for teachers that suit your schedule and learning needs.
 ##### /create-orphanage
 
-## *CreateAPI*
+### *CreateAPI*
 
 #### Endpoints
 
