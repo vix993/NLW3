@@ -34,7 +34,7 @@ View all of the created orphanages.
 ### *Create Orphanage*
 
 #### Orphanage Creation Form
-Search for teachers that suit your schedule and learning needs.
+Add an orphanage and pin it to our app map.
 ##### /create-orphanage
 
 ### *CreateAPI*
