@@ -5,10 +5,10 @@
 1. [Motivation](#Motivation) 
 2. [Requirements](#Requirements)
 3. [Pages](#Pages)
+    - [Visit Orphanage](#Visit)
+    - [Visit: API](#VisitAPI)
     - [Create Orphanage](#Create)
     - [Create: API](#CreateAPI)
-    - [Visit Orphanage](#Visit)
-    - [Teach: API](#TeachAPI)
 
 ## Motivation
 
@@ -27,8 +27,17 @@ React-router-dom, leaflet, jest, node and typescript.
 View all of the created orphanages.
 ##### /app
 
+## *VisitAPI*
+
+#### Endpoints
+
 ## *Create Orphanage*
 
 #### Orphanage Creation Form
 Search for teachers that suit your schedule and learning needs.
 ##### /create-orphanage
+
+## *CreateAPI*
+
+#### Endpoints
+
