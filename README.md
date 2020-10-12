@@ -14,7 +14,7 @@
 
 This repository holds a project called [`hAppy`](), created during [Next Level Week #3](https://nextlevelweek.com/inscricao/3). In this bootcamp, we created a platform in which users can share local orphanages along with their visiting rules so that people can connect and inspire underpriviledged youngsters.
 
-You can run it by cloning the repository. Running `cd hAppy/web`,`yarn install` then executing the command `npm run start`.
+You can run it by cloning the repository. Running `cd hAppy/web`,`yarn install` then executing the command `yarn start`.
 
 ## Requirements
 
