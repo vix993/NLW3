@@ -140,7 +140,7 @@ export default function CreateOrphanage() {
           </fieldset>
 
           <fieldset>
-            <legend>Visitação</legend>
+            <legend>Visiting Hours</legend>
 
             <div className="input-block">
               <label htmlFor="instructions">Instructions</label>
